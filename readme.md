@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    DESENVOLVEDOR WEB FULL STACK
+    DESENVOLVEDOR WEB
   </samp>
   <br>
   <br>
